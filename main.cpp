@@ -62,12 +62,6 @@ int main(){
    
   }
   
-  
-  //int chara = 01001110;
-  //char u = chara;
-  //std::cout << u;
-  
-  
 }
 
 
