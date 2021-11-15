@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 #include <fstream>
-#include<math.h>
+#include <math.h>
 
 // PRE: -
 // POST: read an encoded character from the given input stream.
